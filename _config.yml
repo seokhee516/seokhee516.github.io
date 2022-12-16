@@ -5,23 +5,23 @@
 
 # Site
 title: Seokhee Dev
-subtitle:
+subtitle: 석희의 기술 블로그
 description:
 author: Seokhee
 Support language: en, ko
 language: en
 date_format: '%Y-%m-%d'
-repository: "seokhee516/seokhee516.github.io"
-comments:
-  provider: "utterances"
-utterances:
-  theme: "github-light"
-  issue_term: "pathname"
+# repository: "seokhee516/seokhee516.github.io"
+# comments:
+#   provider: "utterances"
+# utterances:
+#   theme: "github-light"
+#   issue_term: "pathname"
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com' and baseurl as '/child'
-url: 'https://seokhee516.github.io'
-baseurl: ''
+url: "https://seokhee516.github.io"
+baseurl: ""
 permalink: pretty
 
 # Pagination
@@ -93,7 +93,7 @@ keywords: "Jekyll, NexT"
 rss:
 
 # Specify the date when the site was setup
-#since: 2015
+since: 2022
 
 # icon between year and author @Footer
 authoricon: heart
@@ -219,8 +219,8 @@ font:
 # Social Links
 # Key is the link label showing to end users.
 # Value is the target link (E.g. GitHub: https://github.com/iissnan)
-# social:
-#   GitHub: https://github.com/seokhee516
+social:
+  GitHub: https://github.com/seokhee516
 
 # Social Links Icons
 # Icon Mapping:
@@ -232,13 +232,13 @@ social_icons:
   # Icon Mappings.
   # KeyMapsToSocialItemKey: NameOfTheIconFromFontAwesome
   GitHub: github
-  Twitter: twitter
-  Weibo: weibo
+  # Twitter: twitter
+  # Weibo: weibo
 
 
 # Sidebar Avatar
 # in directory: /assets/images/avatar.gif
-#avatar:
+avatar:assets/images/KakaoTalk_20221216_200950283.jpg
 
 
 # Table Of Contents in the Sidebar
@@ -385,8 +385,8 @@ han: false
 
 # Disqus
 disqus:
-  enable: false
-  shortname:
+  enable: true
+  shortname: seokhee0516
   count: true
   # hide comments (visitors need to click to load the comments)
   # count need to be false when hide is true
@@ -591,7 +591,7 @@ algolia_search:
 
 # Local search
 local_search:
-  enable: false
+  enable: true
   # if auto, trigger search by changing input
   # if manual, trigger search by pressing enter key or search button
   trigger: auto

@@ -215,8 +215,8 @@ font:
 # Social Links
 # Key is the link label showing to end users.
 # Value is the target link (E.g. GitHub: https://github.com/iissnan)
-social:
-  GitHub: https://github.com/seokhee516
+# social:
+#   GitHub: https://github.com/seokhee516
 
 # Social Links Icons
 # Icon Mapping:

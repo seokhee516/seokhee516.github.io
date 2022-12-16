@@ -11,8 +11,8 @@ author: Seokhee
 Support language: en, ko
 language: en
 date_format: '%Y-%m-%d'
-# utterances:
-#   repo: "seokhee516/comments"
+utterances:
+  repo: "seokhee516/comments"
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com' and baseurl as '/child'

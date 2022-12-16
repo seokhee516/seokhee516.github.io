@@ -20,8 +20,8 @@ utterances:
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com' and baseurl as '/child'
-url: 'https://seokhee516.github.io/'
-baseurl: 
+url: 'https://seokhee516.github.io'
+baseurl: ''
 permalink: pretty
 
 # Pagination

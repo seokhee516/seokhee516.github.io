@@ -4,3 +4,4 @@
 - jekyll next thmeme
 
 - 블로그 이사중...\ \ \\٩(｡•ω•｡)و // / /
+ - 테스트 모드 실행 `bundle exec jekyll serve`

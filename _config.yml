@@ -367,8 +367,8 @@ highlight_theme: normal
 
 # MathJax Support
 mathjax:
-  enable: false
-  per_page: false
+  enable: true
+  per_page: true
   cdn: //cdn.bootcss.com/mathjax/2.7.1/latest.js?config=TeX-AMS-MML_HTMLorMML
 
 # Han Support docs: https://hanzi.pro/
@@ -425,10 +425,10 @@ wildfire:
 #gentie_productKey:
 
 # changyan
-changyan:
-  enable: false
-  appid:
-  appkey:
+# changyan:
+#   enable: false
+#   appid:
+#   appkey:
 
 # Support for youyan comments system.
 # You can get your uid from http://www.uyan.cc
@@ -439,13 +439,13 @@ changyan:
 #livere_uid: your uid
 
 # Support for gitalk comments system.
-gitalk:
-  enable: false
-  clientID: # 54730ddf7b9420460c03
-  clientSecret: # c05684701b25ff1c19ea0c01ce4d80c125e0707d
-  repo: # colingpt.github.io
-  owner: # colingpt
-  admin: # colingpt
+# gitalk:
+#   enable: false
+#   clientID: # 54730ddf7b9420460c03
+#   clientSecret: # c05684701b25ff1c19ea0c01ce4d80c125e0707d
+#   repo: # colingpt.github.io
+#   owner: # colingpt
+#   admin: # colingpt
 
 # Baidu Share
 # Available value:

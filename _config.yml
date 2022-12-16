@@ -11,8 +11,12 @@ author: Seokhee
 Support language: en, ko
 language: en
 date_format: '%Y-%m-%d'
+repository: "seokhee516/seokhee516.github.io"
+comments:
+  provider: "utterances"
 utterances:
-  repo: "seokhee516/seokhee516.github.io"
+  theme: "github-light"
+  issue_term: "pathname"
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com' and baseurl as '/child'
